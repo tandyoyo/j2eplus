@@ -1,0 +1,7 @@
+public
+src
+**/dist/**
+**/node_modules/**
+package.json
+.eslintrc.js
+
